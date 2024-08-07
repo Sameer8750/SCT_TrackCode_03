@@ -74,7 +74,7 @@ The age group 30-50 had the highest number of clients.
 **1. Clone the repository :**
 <br>
 ```bash
-    https://github.com/Sameer8750/SCT_TrackCode_Task3.git
+    https://github.com/Sameer8750/SCT_TrackCode_3.git
 ```
 
 **2. Analyze with Python:** 
